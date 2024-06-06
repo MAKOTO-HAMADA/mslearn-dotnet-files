@@ -1,4 +1,6 @@
-﻿using Newtonsoft.Json; 
+﻿// GitHubでブランチの遷移を確認する為だけのコメント
+
+using Newtonsoft.Json; 
 
 var currentDirectory = Directory.GetCurrentDirectory();
 var storesDirectory = Path.Combine(currentDirectory, "stores");
